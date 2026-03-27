@@ -55,7 +55,7 @@ You can see all the commits here:
 
 ## Video Walkthrough
 
-[I'll add the YouTube link here after I record]
+https://youtu.be/w2ucsQElXkI
 
 ---
 
